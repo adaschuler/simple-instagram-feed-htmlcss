@@ -1,0 +1,9 @@
+body{background-color: grey;}
+h1, h2, h3{ font-family: 'Roboto', sans-serif;}
+#cabecera1{background-color: white;margin: 0 auto;}
+.numero{color:grey}
+img{width:400px;}
+.cabina{background-color: white;
+width:400px;
+margin: 0 auto;}
+.titulofoto{display:flex}
